@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom_Menu_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="places">Places</string>
+    <string name="fav">Fav</string>
+    <string name="music">Music</string>
+</resources>

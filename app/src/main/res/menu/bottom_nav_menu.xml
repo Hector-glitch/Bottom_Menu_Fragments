@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favFragment"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="Fav" />
+    <item
+        android:id="@+id/musicFragment"
+        android:icon="@drawable/baseline_music_note_24"
+        android:title="Music" />
+    <item
+        android:id="@+id/placeFragment"
+        android:icon="@drawable/baseline_place_24"
+        android:title="Place" />
+</menu>
